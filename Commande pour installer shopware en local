@@ -1,0 +1,1 @@
+docker run --rm -p 88:88 dockware/play:latest
